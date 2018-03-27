@@ -5,3 +5,5 @@ L'ensemble de solutions (fichiers StarUML`.mdj` ET les images en `.pdf`) sont à
 Pour pouvoir soumettre votre travail, cliquez sur le lien ci-dessous pour cloner ce dépôt : https://classroom.github.com/a/WNe5wlSW
 
 Date limite de rendu : **Dimanche 25 mars à 23h59**
+
+J'ai rendu le Tp à l'heure mais dans le mauvais dépôt, désolée.
